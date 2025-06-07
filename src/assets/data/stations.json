@@ -23,7 +23,7 @@
     },
     {
       "displayorder": 2,
-      "genres": ["pop", "classics"],
+      "genres": ["pop", "rock"],
       "language": "be-nl",
       "logosource": "https://images.vrt.be/orig/2025/02/05/6cf3c5be-b409-4165-8c1f-c4295bb6e287.png?w=960",
       "name": "Radio 1 Classics",
@@ -44,9 +44,9 @@
     },
     {
       "displayorder": 3,
-      "genres": ["pop", "classics"],
+      "genres": ["pop", "hits", "feelgood"],
       "language": "be-nl",
-      "logosource": "https://images.vrt.be/orig/2025/02/05/6cf3c5be-b409-4165-8c1f-c4295bb6e287.png?w=960",
+      "logosource": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio2/v6/color.svg",
       "name": "VRT Radio 2",
       "streams": [
         {
@@ -65,9 +65,9 @@
     },
     {
       "displayorder": 4,
-      "genres": ["pop", "classics"],
+      "genres": ["pop", "hits", "evergreens", "nederlands"],
       "language": "be-nl",
-      "logosource": "https://images.vrt.be/orig/2025/02/05/6cf3c5be-b409-4165-8c1f-c4295bb6e287.png?w=960",
+      "logosource": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio-2-bene-bene/v4/color.svg",
       "name": "Radio 2 Bene",
       "streams": [
         {
@@ -86,9 +86,9 @@
     },
     {
       "displayorder": 5,
-      "genres": ["pop", "classics"],
+      "genres": ["pop", "easy"],
       "language": "be-nl",
-      "logosource": "https://images.vrt.be/orig/2025/02/05/6cf3c5be-b409-4165-8c1f-c4295bb6e287.png?w=960",
+      "logosource": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio2/v6/color.svg",
       "name": "Radio 2 Unwind",
       "streams": [
         {
