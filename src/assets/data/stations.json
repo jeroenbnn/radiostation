@@ -5,7 +5,7 @@
       "genres": ["pop", "rock", "folk", "blues", "jazz", "wereldmuziek"],
       "language": "be-nl",
       "logosource": "https://www.vrt.be/content/dam/vrtvideo/branding/logos/radio1/v2/primary.svg",
-      "name": "VRT Radio 1",
+      "name": "Radio 1",
       "streams": [
         {
           "mimetype": "audio/mp3",
@@ -19,6 +19,27 @@
       "website": "https://radio1.be",
       "id": "radio2",
       "related": ["radio1classics"],
+      "stationuuid": "fd059cc5-b538-41c1-ae76-b8778a84c3db"
+    },
+    {
+      "displayorder": 2,
+      "genres": ["pop", "classics"],
+      "language": "be-nl",
+      "logosource": "https://images.vrt.be/orig/2025/02/05/6cf3c5be-b409-4165-8c1f-c4295bb6e287.png?w=960",
+      "name": "Radio 1 Classics",
+      "streams": [
+        {
+          "mimetype": "audio/mp3",
+          "url": "http://icecast.vrtcdn.be/radio1_classics-mid.mp3"
+        },
+        {
+          "mimetype": "audio/aac",
+          "url": "http://icecast.vrtcdn.be/radio1_classics.aac"
+        }
+      ],
+      "website": "https://radio1.be",
+      "id": "radio1-classics",
+      "related": ["radio1"],
       "stationuuid": "fd059cc5-b538-41c1-ae76-b8778a84c3db"
     }
   ]
